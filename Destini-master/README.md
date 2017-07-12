@@ -1,7 +1,6 @@
 # Destini
-Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Destini App
 
-Download the starter project files as .zip and extract to your desktop. --->
+Making decisions that affect the outcome of your story
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
